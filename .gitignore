@@ -1,0 +1,13 @@
+build-fw/
+build-host/
+build-*/
+sim_shot_*.ppm
+sim_play_*.wav
+sim_input.txt
+opna2.p2s
+*.o
+*.d
+*.elf
+*.map
+
+/*.wav
